@@ -5,6 +5,16 @@
 
 - Break this down as concise as possible
 
+### File transfer
+
+- Powershell file transfer
+- Netcat file transfer
+- Python Http servers
+- Samba
+- Smb
+- ftp reminders (binary, ascii)
+- curl, wget, Invoke-WebRequest
+
 ### Scans
 
 - Add script scan examples to list
