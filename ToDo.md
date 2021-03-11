@@ -12,4 +12,20 @@
 
 ### Windows
 
-- 
+- Add windows powershell commands
+- Add windows enum .bat script *could also be an .exe,vbscript,.ps1,..all of the above*
+- Add windows PE methods *service creation, pth, etc...*
+- Add some registry tips/tricks
+- Add consise client side document creation
+- Add mimikatz commands
+
+### Tools
+
+- Add burpsuite reminder section
+- Add Wireshark reminder section
+- Add web dir enum section w/ wordlists
+- Add password/hash cracking section
+
+### Buffer Overflow
+
+- Break this down as concise as possible 
