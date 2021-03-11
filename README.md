@@ -1,5 +1,5 @@
 # Workflow_OSCP
-**Ways to keep on track in PWK**  _The purpose of this is to better our process, and enable us to work together contributing to one another's success. Please remember, this doc will not be all-inclusive or cover every aspect you may encounter. It is mearly there to remind you of the process and help when your nerves make your brain forget a useful command._ **This is a work in progress and I'm sharing now to encorage collaboration.**
+**Ways to keep on track in PWK**  _The purpose of this is to better our process, and enable us to work together contributing to one another's success. Please remember, this doc will not be all-inclusive or cover every aspect you may encounter. It is merely there to remind you of the process and help when your nerves make your brain forget a useful command._ **This is a work in progress and I'm sharing now to encourage collaboration.**
 
 ## Initial Enumeration
 
@@ -12,7 +12,7 @@
     
 `sudo nmap -n -sU -Pn -oN out.UDP <ip>`
     
-*Take your output file and pull all the ports out in a nice little comma separated line. Not nessasary but saves a little time typing since you can just cp/paste the output of this bad boy. Works on -oN output files.*
+*Take your output file and pull all the ports out in a nice little comma separated line. Not necessary but saves a little time typing since you can just cp/paste the output of this bad boy. Works on -oN output files.*
     
 `cat <out.file> | egrep '^[1-9]' | cut -d '/' -f 1 | tr '\n' ','| awk '{print substr($0, 1, length($0)-1)}'`
     
