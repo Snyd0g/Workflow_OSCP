@@ -4,3 +4,5 @@
 ### Table of Contents
 
 - [Scans](https://github.com/Snyd0g/Workflow_OSCP/blob/main/scans.md)
+- [ToDo](https://github.com/Snyd0g/Workflow_OSCP/blob/main/ToDo.md)
+- [Linux Commands](https://github.com/Snyd0g/Workflow_OSCP/blob/main/linux_commands.md)
