@@ -4,5 +4,7 @@ _The purpose of this is to better our process, and enable us to work together co
 ### Table of Contents
 
 - [Scans](https://github.com/Snyd0g/Workflow_OSCP/blob/main/scans.md)
-- [ToDo](https://github.com/Snyd0g/Workflow_OSCP/blob/main/ToDo.md)
+
 - [Linux Commands](https://github.com/Snyd0g/Workflow_OSCP/blob/main/linux_commands.md)
+
+- [ToDo](https://github.com/Snyd0g/Workflow_OSCP/blob/main/ToDo.md)
