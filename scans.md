@@ -1,6 +1,6 @@
 # Scans
 
-**Fields encased in <> require user input. Use -v if you would like to see open ports as they are found (can alse press v during scan to turn on verbose mode)**
+**Fields encased in <> require user input. Use -v if you would like to see open ports as they are found (alternatively press v during scan to turn on verbose mode)**
  
 *First thing I do on target is scan all tcp ports to see what's open. Flags: -n (no DNS) -p- (all 65535 TCP) -Pn (no ping) -sS (syn stealth/default for root/see man page for more) -oN (output to file and avoid repeating the same scan)*
     
