@@ -29,3 +29,7 @@
 ### Buffer Overflow
 
 - Break this down as concise as possible 
+
+### Format repo
+
+- Use Readme as table of contents and link each topic as a file
