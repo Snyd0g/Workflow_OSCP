@@ -3,6 +3,8 @@ _The purpose of this is to better our process, and enable us to work together co
 
 ### Table of Contents
 
+- [Buffer Overflow](https://github.com/Snyd0g/Workflow_OSCP/blob/main/UrlsByConcept.md#buffer-overflow)
+
 - [Scans](https://github.com/Snyd0g/Workflow_OSCP/blob/main/scans.md)
 
 - [Linux Commands](https://github.com/Snyd0g/Workflow_OSCP/blob/main/linux_commands.md)
