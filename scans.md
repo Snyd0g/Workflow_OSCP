@@ -1,4 +1,6 @@
 # Scans
+
+**Fields encased in <> require user input**
  
 *First thing I do on target is scan all tcp ports to see what's open. Flags: -n (no DNS) -p- (all 65535 TCP) -Pn (no ping) -sS (syn stealth/default for root/see man page for more) -oN (output to file and avoid repeating the same scan)*
     
