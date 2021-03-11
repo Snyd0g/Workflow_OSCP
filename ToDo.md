@@ -1,5 +1,14 @@
 # To Do
 
+
+### Buffer Overflow
+
+- Break this down as concise as possible
+
+### Scans
+
+- Add script scan examples to list
+
 ### Linux
 
 - Add Linux enum script
@@ -26,9 +35,6 @@
 - Add web dir enum section w/ wordlists
 - Add password/hash cracking section
 
-### Buffer Overflow
-
-- Break this down as concise as possible 
 
 ### Format repo
 
