@@ -1,5 +1,6 @@
 # Linux Commands
-- Find files or directories
+- Find files or directories [jump-to]
+- Network Info [jump-to]
 
 
 
@@ -12,3 +13,13 @@
 *Find all nmap nse scripts related to http. Note I started the scan from /usr because I know my .nse scripts are located there. If you had no idea, you would use “/” as the 1st arg.*
 
 `find /usr -iname '*.nse*' 2>/dev/null | grep http`
+
+## Network Info
+
+_Sockets and process ids (depending on user)_
+
+`netstat -antup`
+
+_lsof can accomplish a similar task using the following (in the strange event you don't have netstat)
+
+`/usr/bin/lsof -ni :443`
