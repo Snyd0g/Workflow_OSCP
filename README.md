@@ -1,10 +1,9 @@
 # Workflow_OSCP
 **Ways to keep on track in PWK**
 
-##Initial Enumeration
-  
-###Scans 
-   
+## Initial Enumeration
+
+### Scans 
 *First thing I do on target is scan all tcp ports to see what's open. Flags: -n (no DNS) -p- (all 65535 TCP) -Pn (no ping) -sS (syn stealth/default for root/see man page for more) -oN (output to file and avoid repeating the same scan)*
     
 `sudo nmap -n -p- -Pn -sS -oN out.file <ip>`
