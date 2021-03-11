@@ -3,4 +3,4 @@
 
 ### Table of Contents
 
-- [Scans](Workflow_OSCP/scans.md)
+- [Scans](https://github.com/Snyd0g/Workflow_OSCP/blob/main/scans.md)
