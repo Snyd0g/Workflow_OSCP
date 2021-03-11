@@ -1,6 +1,6 @@
 # Linux Commands
-- Find files or directories [jump-to](https://github.com/Snyd0g/Workflow_OSCP/blob/main/linux_commands.md#find-files-or-directories)
-- Network Info [jump-to]
+- Find files or directories \*\*[go-to](https://github.com/Snyd0g/Workflow_OSCP/blob/main/linux_commands.md#find-files-or-directories)
+- Network Info \*\*[go-to](https://github.com/Snyd0g/Workflow_OSCP/blob/main/linux_commands.md#network-info)
 
 
 
