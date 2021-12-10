@@ -4,6 +4,8 @@
 
 - Services \*\*[go-to](https://github.com/Snyd0g/Workflow_OSCP/blob/main/linux_commands.md#services)
 
+- Users, Groups, Policies \*\*[go-to](https://github.com/Snyd0g/Workflow_OSCP/blob/main/linux_commands.md#users-groups-policies)
+
 ## Find files or directories
 
 *Basic search by case insensitive name using wildcards "\*" starting from root dir and redirecting errors, also runs an ls showing permissions*
