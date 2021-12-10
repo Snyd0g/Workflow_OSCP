@@ -20,6 +20,10 @@ _Sockets and process ids (depending on user)_
 
 `netstat -antup`
 
+or
+
+`ss -antup`
+
 _lsof can accomplish a similar task using the following (in the strange event you don't have netstat)
 
 `/usr/bin/lsof -ni :443`
