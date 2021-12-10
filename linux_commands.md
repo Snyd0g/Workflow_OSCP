@@ -52,6 +52,11 @@ _To view the current password policies you can use the command less to open the 
 
 `less /etc/login.defs`
 
-_If I needed to edit the previous file, I would use vim or nano._
+_If you need to make changes to the system policies you would need to edit the /etc/login.defs file by using vim or nano_
 
+`sudo nano /etc/login.defs` 
+
+_Modifying one user can be accomplished by using the usermod command. The following example would lock the user account morty._
+
+`sudo usermod -L morty`
 
