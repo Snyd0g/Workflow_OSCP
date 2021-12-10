@@ -48,8 +48,10 @@ _The following will list all of the loaded services and display their state i.e.
 
 ## Users, Groups, Policies
 
-_To view the current policies for users added to the system use this_
+_To view the current password policies you can use the command less to open the /etc/login.defs file. Searching the output is possible by pressing the "/" key and then typing the text you wish to search for. For instance, if I was looking for the max password age I would type "/MAX" and press enter. Then you can simply hit the up and down arrow keys to move around the file._ 
 
-less /etc/login.defs
+`less /etc/login.defs`
+
+_If I needed to edit the previous file, I would use vim or nano._
 
 
