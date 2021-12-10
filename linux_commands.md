@@ -24,7 +24,7 @@ _Sockets and process IDs_
 
 `sudo netstat -antup`
 
-_or if netstat is not there_
+_- or if netstat is not there_
 
 `sudo ss -antup`
 
