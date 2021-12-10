@@ -45,3 +45,11 @@ _Find a specific process by it's process ID (example with a process id of 1337)_
 _The following will list all of the loaded services and display their state i.e. (active, running, listening, waiting)_
 
 `sudo systemctl list-units`
+
+## Users, Groups, Policies
+
+_To view the current policies for users added to the system use this_
+
+less /etc/login.defs
+
+
