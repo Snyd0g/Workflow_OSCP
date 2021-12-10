@@ -34,12 +34,12 @@ _lsof can accomplish a similar task using the following (in the strange event yo
 
 ## Process info
 
-ps -elf
+`ps -elf`
 
 _Find a specific process by it's process ID (example with a process id of 1337)_
 
-ps -elf | grep 1337
+`ps -elf | grep 1337`
 
 ## Services
 
-sudo systemctl list-units
+`sudo systemctl list-units`
