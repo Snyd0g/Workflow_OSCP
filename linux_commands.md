@@ -22,11 +22,11 @@
 
 _Sockets and process ids (depending on user)_
 
-`netstat -antup`
+`sudo netstat -antup`
 
 or
 
-`ss -antup`
+`sudo ss -antup`
 
 _lsof can accomplish a similar task using the following (in the strange event you don't have netstat or ss)_
 
@@ -41,5 +41,7 @@ _Find a specific process by it's process ID (example with a process id of 1337)_
 `ps -elf | grep 1337`
 
 ## Services
+
+_The following will list all of the loaded services and display their state i.e. (active, running, listening, waiting)_
 
 `sudo systemctl list-units`
