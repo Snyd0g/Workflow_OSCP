@@ -20,11 +20,11 @@
 
 ## Network Info
 
-_Sockets and process ids (depending on user)_
+_Sockets and process IDs_
 
 `sudo netstat -antup`
 
-or
+_or if netstat is not there_
 
 `sudo ss -antup`
 
