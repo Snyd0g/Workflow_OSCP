@@ -24,6 +24,6 @@ or
 
 `ss -antup`
 
-_lsof can accomplish a similar task using the following (in the strange event you don't have netstat)
+_lsof can accomplish a similar task using the following (in the strange event you don't have netstat)_
 
 `/usr/bin/lsof -ni :443`
